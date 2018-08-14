@@ -16,7 +16,7 @@
     "hexo-renderer-marked": "^0.3.0",
     "hexo-server": "^0.2.0"
   },
-  "script": {
+  "scripts": {
     "start": "./node_modules/hexo/bin/hexo server",
     "hexo-clean": "./node_modules/hexo/bin/hexo clean",
     "hexo-g": "./node_modules/hexo/bin/hexo generate",
