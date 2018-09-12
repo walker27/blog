@@ -29,8 +29,8 @@ tags:
 ```
 
 # Javascript中判断媒体查询
-```javascript
-  const mq = window.matchMedia('(min-width: 500px)');
+```typescript
+  const mq: MediaQueryList = window.matchMedia('(min-width: 500px)');
 ```
 
 # 逻辑操作符
